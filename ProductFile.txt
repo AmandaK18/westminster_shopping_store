@@ -1,0 +1,5 @@
+ID: EL23456,Name: Machine,Price: 20.0,Num of products: 24,Brand: WEE,Warranty period: 12
+ID: CL32534,Name: Shirt,Price: 23.0,Num of products: 25,Colour: Pink,Size: M
+ID: CL34562,Name: Shirt,Price: 23.0,Num of products: 45,Colour: White,Size: S
+ID: EL5384,Name: gdhf,Price: 45.0,Num of products: 34,Brand: wee,Warranty period: 12
+ID: EL649,Name: gdhf,Price: 23.0,Num of products: 12,Brand: tyy,Warranty period: 12
